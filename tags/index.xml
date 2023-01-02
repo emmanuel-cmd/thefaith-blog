@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Faith-Blog</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Faith-Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>faith</title>
+      <link>/tags/faith/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/faith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>salvation</title>
+      <link>/tags/salvation/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/salvation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>challenges</title>
+      <link>/tags/challenges/</link>
+      <pubDate>Sun, 18 Dec 2022 19:54:02 +0000</pubDate>
+      
+      <guid>/tags/challenges/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>God&#39;s presence</title>
+      <link>/tags/gods-presence/</link>
+      <pubDate>Sun, 18 Dec 2022 19:54:02 +0000</pubDate>
+      
+      <guid>/tags/gods-presence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>/tags/blog/</link>
+      <pubDate>Wed, 30 Aug 2017 19:44:02 +0000</pubDate>
+      
+      <guid>/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lorem</title>
+      <link>/tags/lorem/</link>
+      <pubDate>Wed, 30 Aug 2017 19:34:02 +0000</pubDate>
+      
+      <guid>/tags/lorem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>futurama</title>
+      <link>/tags/futurama/</link>
+      <pubDate>Wed, 30 Aug 2017 18:34:02 +0000</pubDate>
+      
+      <guid>/tags/futurama/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
