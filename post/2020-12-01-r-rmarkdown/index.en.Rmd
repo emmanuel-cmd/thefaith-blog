@@ -2,7 +2,7 @@
 title: "A new life in Christ"
 author: "faith blog"
 date: "`r Sys.Date()`" 
-categories: ["R"]    
+categories: ["R"]       
 tags: ["faith", "salvation"]
 ---
 
