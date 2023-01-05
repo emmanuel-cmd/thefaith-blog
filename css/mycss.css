@@ -9,7 +9,7 @@
   content: attr(data-hover);
   visibility: hidden;
   opacity: 0;
-  width: 400px;
+  width: 500px;
   background-color: #D3D3D3;
   color: black;
   text-align: left;
