@@ -1,0 +1,39 @@
+/*-----*/
+.hovertext {
+  position: relative;
+  border-bottom: 1px solid blue;
+  color: blue;
+}
+
+.hovertext:before {
+  content: attr(data-hover);
+  visibility: hidden;
+  opacity: 0;
+  width: 200px;
+  background-color: #D3D3D3;
+  color: black;
+  text-align: left;
+  border-radius: 5px;
+  padding: 5px 5px;
+  transition: opacity 1s ease-in-out;
+
+  position: absolute;
+  z-index: 1;
+  left: 0;
+  top: 110%;
+}
+
+.hovertext:hover:before {
+  opacity: 1;
+  visibility: visible;
+}
+.hovertext:hover:after {
+  content: " ";
+  position: absolute;
+  bottom: 0%;  /* At the top of the tooltip */
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent transparent #D3D3D3 transparent;
+}
